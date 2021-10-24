@@ -1,0 +1,4 @@
+﻿  son.c
+C:\Users\USER\Desktop\c_projects\mtm\EX1\EX1\son.c(135,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\c_projects\mtm\EX1\EX1\son.c(72): warning C4716: 'create_handle': must return a value
+  EX1.vcxproj -> C:\Users\USER\Desktop\c_projects\mtm\EX1\Debug\son.exe
